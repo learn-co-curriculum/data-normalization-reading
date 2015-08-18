@@ -3,7 +3,7 @@
 ## Objectives
 
 1. Understand why we as programmers need to manipulate and format data.
-2. Learn how to formatting file names. 
+2. Learn how to format file names. 
 3. Learn about writing data to files using Ruby. 
 
 ## Data Normalization

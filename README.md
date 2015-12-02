@@ -33,3 +33,5 @@ Use the documentation linked to above, along with the tips outlined here, to sol
 ## Resource Naming Conventions and Slugification 
 
 As programmers, we don't write code for computers, we write code for humans. Our job is to make the programs we write as easy and even pleasurable to use as possible. One of the key areas in which we enact this principle is naming––naming files, naming URLS, you name it! Consequently, there are certain conventions we want to follow when naming our files. A file that contains a song is likely going to be called `song_title.mp3`. A file that contains a picture is likey to be called something like `profile_pic.png`. These file names are often referred to as **"slugs"**. A slug can refer to a resource name or location that is "human readable". We'll encounter the concept of slugs later on when we learn about the web.
+
+<a href='https://learn.co/lessons/data-normalization-reading' data-visibility='hidden'>View this lesson on Learn.co</a>
